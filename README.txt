@@ -9,6 +9,10 @@ into our code.
 
 Not the most useful program, but it is what it is!
 
+Program has a premise function, and a conclusion function. There are three
+logical variables - P, Q & R - simply change the logic equations returned 
+by the premise and conclusion functions and a different table is printed.
+
 
 Sample Program Run:
 
